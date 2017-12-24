@@ -1,0 +1,59 @@
+﻿**te podatke mormo shranit v word in izvozit kot pdf**
+
+Market analysis
+
+
+Top down: 
+
+- Total available market: 
+Recimo da je v sloveniji TAM: 50 000 prodanih enot po 400 eurov ~ 20 000 000 eurov
+
+- Served available market:
+Zrcala bi se predvsem prodajala osebam, ki imajo smart home, tudi frizerjim, in mogoče še določenim prostorom 
+z večjim ali bolj zasedenimi avlami (naprimer hoteli).
+50% TAM-a = 25000 prodanih enot * 400 ~ 10 000 000 eur
+
+- Share of the market = 30% ~ 3 000 000 eur ( v treh letih)
+V sloveniji je približno 3000 salonov in frizerskih studijov, približno 5000 hotelov in 25 000 pametnih domov.
+Recimo da bi od teh vseh na koncu zaradi cene, dobili 200 frizerskih studijov in salonov 100 hotelov in 7 000 pametnih domov.
+Povprečen frizer bi kupil 2, hotel tudi 2, pametni dom pa 1.
+
+200*2+100*2+7 000= 7 600 prodanih komadov ~3 040 000 eur (v treh letih), v prvem bi recimo prodali samo 1000 komadov, 
+potem ko bi se pa ljudje z izdelkom bol spoznali bi pa ostro raslo.
+
+
+Bottom up:
+
+Magic mirrorjev še v slovenskih hotelih in pri frizerjih nisem videl, določeni ljudje, ki se kot hobij ukvarjajo z raspberry pi-jem,
+pa jih lahko da že imajo doma. Na začetku bi prodaja bila nižja, ampak ker ta tehnologija raste, lahko sklepam da bi se
+čez čas prodaja povečevala. Recimo da bi prvo leto po prepričevanju potencialnih kupcev prodali 1000 komadov (bogatejši tech hobijisti
+bi predstavljali večino teh prodaj, ter bolj luksuzni hoteli in frizerski studiji), potem bi nasledno leto prodaja rasla in prišla na recimo 2000 komadov itd.
+Po prvih nekaj letih bi kupci postali seznanjeni z izdelkom in bi prodaja lahko začela bolj ostro rasti.
+Lahko bi tudi uvedli plačljiv model za določene module magic mirrorja, recimo da frizer dobi AR compatible verzijo magic mirrora,
+katero mora letno plačevati 60 evrov za podporo in nove funkcije v posodobitvah.
+
+Competitive strategy:
+
+Izdelek bi imel več verzij in modulov, ki bi lahko zadovoljile različne niše, verzija za frizerja bi recimo lahko imela AR podporo
+in kamero, s katero bi lahko "poskusil" frizuro na sebi da vidiš kakšen zgledaš z njo preden se odločiš. Ti moduli bi imeli različne cene, in vsak 
+od teh magic mirrorjev bi imel letni strošek za podporo, ki ga verzije hobijistov nebi imele. 
+Verzija za hotele bi lahko prikazovala razne druge informacije, ki so lahko specifične na hotel, kot nek information helpdesk.
+
+Te verzije bi seveda imele tudi vso funkcionalnost osnovnega zrcala hobijistov.
+
+Slovenskih proizvajalcev magic mirrorjev še ni, so pa seveda iz drugih držav, ki prodajajo v slovenijo, a nimajo teh funkcij, ki so opisane
+zgoraj.
+
+SWOT
+Strengths:
+Persionalizacija funkcionalnosti za različne končne uporabnike. Dodatna kamere, ki omogoča AR.
+
+Weaknesses:
+Nismo pripravljeni za večjo proizvodnjo (pomanjanje logistiuke in infrastrukture). Nimamo še prepoznavnosti.
+
+Opportunities:
+Tehnološka priložnost za inovacijo na področju AR-a v vsakdnevnem življenju.
+Nova tržna niša (ogledalo kot neka informacijska točka v vsakdnevnem življenju).
+
+Threats:
+Konkurenca, cena in čas produkcije prototipov, firma z večjo infrastruktura lahko kopira in naredi bolj masivno produkcijo.

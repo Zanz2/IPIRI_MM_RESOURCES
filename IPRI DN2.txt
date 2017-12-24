@@ -1,0 +1,18 @@
+Usmerili se bi v evropski trg navdušencev tehnologije.
+Feature set:
+izpis informacij,Prepoznavanje osebe (obraza) in modificiran prikaz informacij glede na osebo (koledar...)
+, gesturi (kontrola z gibi), AR funkcije(trenutno samo grobe ideje in koncepti).
+
+Product scope:
+Uporabnika bo zrcalo prepoznalo po obrazu, nato bo izpisalo razne informacije, ki so relevantne glede na uporabnika,
+recimo obvestila za razne dogodke, ki jih oseba ima planirane za danes, ali informacije iz raznih android aplikacij.
+
+
+Feature roadmap:
+Za zrcalo bi prvo implementirali prepoznavanje obraza in potem oseben izpis podatkov za razne aplikacije ali koledarje.
+Prvo se nam zdi da je pomembno implementirati tehnologijo za prepoznavanja obrazov, ker nas bi to loèilo od drugih
+prodajalcev magic mirrorjev, ki nimajo kamere, potem bi dodali ostale funkcije kot kontrola z gibi (gesturi), in AR podporo.
+
+Strategic Opportunities:
+Na trgu bi bili eno izmed zgodnjih magic mirrorjev, z kamero, in po možnosti AR podporo, kar bi prineslo svoje 
+priložnosti in pa tudi težave.

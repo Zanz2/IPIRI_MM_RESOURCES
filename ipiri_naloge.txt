@@ -1,0 +1,25 @@
+Fizične osebe (persone)
+- Janez Novak, je 24 let star web designer, živi v bloku v Ljubljani. Zelo ga zanima področje
+tehnologije in vsako leto kupi najnovejši telefon. Na telefonu ima vse aplikacije za produktivnost,
+in si organizira vsak pomembnejši dogodek v google calender, in v todo liste.
+
+- Samo Hočevar, je 31 let star oče, ki je zaposlen v področju informatike. Živi v hiši v kraju izven Ljubljane. Zanima ga podrobno
+kako funkcionira vsaka tehnološka stvar in aplikacija, in je zelo navdušen nad open source rešitvami in
+programiranju. Za sina je prejšni božič kupil iPad, delno pa tudi za sebe ker je to bila zanj prva tablica.
+
+- Aleks Kovač, je 26 let star ustanovitelj startupa, pri 19 mu je že uspelo sprogramirati prvo igro, za
+google play store in app store, pri 23 pa je s prijatelji naredil aplikacijo, ki je čez noč postala uspeh
+na google play storu in app storu. Ima veliko denarja in živi v veliki razkošni hiši.
+
+
+Cash flow
+- Dobiček iz dejanske prodaje zrcala.
+- Dobiček iz prodaje licenc za uporabo ogledala pri frizerjih, hotelih... (premium podpora, monthly subscription)
+
+Problem naše rešitve
+- Večina ljudi zjutraj gleda v ogledalo, ki še ni tehnološko razvito, naš izdelek
+bi ta jutranji proces spremenil in jutra pospešil, ker bi združil informacijo o vremenu, novice
+izpis prihajajočih dogodkov ( google calender ) v en preprost pogled na display ogledala.
+
+
+Potek predstavitve = david S rose

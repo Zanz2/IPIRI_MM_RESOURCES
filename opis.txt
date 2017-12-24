@@ -1,0 +1,14 @@
+Èlani
+Jaka Jenko 63160145
+Tilen Burjek 63160080
+Žan Žagar 63160340
+Jan Rat 63160276
+
+Opis:
+Izdelati nameravamo zaslon, ki zgleda kot zrcalo, a se na njem izpisujejo razni podatki, 
+od razliènih Apijev, ali iz razliènih programov. 
+
+Možno bi bilo tudi implementirati kamero
+katera bi potem z pomoèjo AR kitov manipulirala z doloèenimi objekti (Recimo, zrcalo se bi
+lahko uporabljalo pri frizerjih, in stranka bi z AR-om v zrcalu lahko "poskusila" razliène
+frizure preden se odloèi za njih) ali pa na isti naèin pri optiki poskusila oèala.
