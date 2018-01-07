@@ -3,7 +3,8 @@ Fizične osebe (persone)
 tehnologije in vsako leto kupi najnovejši telefon. Na telefonu ima vse aplikacije za produktivnost,
 in si organizira vsak pomembnejši dogodek v google calender, in v todo liste.
 
-- Samo Hočevar, je 31 let star oče, ki je zaposlen v področju informatike. Živi v hiši v kraju izven Ljubljane. Zanima ga podrobno
+- Samo Hočevar, je 31 let star oče, ki je zaposlen v področju informatike. 
+Živi v hiši v kraju izven Ljubljane. Zanima ga podrobno
 kako funkcionira vsaka tehnološka stvar in aplikacija, in je zelo navdušen nad open source rešitvami in
 programiranju. Za sina je prejšni božič kupil iPad, delno pa tudi za sebe ker je to bila zanj prva tablica.
 
@@ -14,7 +15,8 @@ na google play storu in app storu. Ima veliko denarja in živi v veliki razkošn
 
 Cash flow
 - Dobiček iz dejanske prodaje zrcala.
-- Dobiček iz prodaje licenc za uporabo ogledala pri frizerjih, hotelih... (premium podpora, monthly subscription, v vrednosti 40 evrov)
+- Dobiček iz prodaje licenc za uporabo ogledala pri frizerjih, hotelih... 
+(premium podpora, monthly subscription, v vrednosti 40 evrov)
 
 Problem naše rešitve
 - Večina ljudi zjutraj gleda v ogledalo, ki še ni tehnološko razvito, naš izdelek
